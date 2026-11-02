@@ -1,0 +1,6 @@
+{
+  "name": "婚礼総合プランナー・プロデューサー認定資格 試験対策アプリ",
+  "description": "公式認定 婚礼総合プランナー・プロデューサー資格（基礎科・花嫁プロデューサー・認定校マスター）の四肢択一問題集＆本試験模擬試験・用語対策学習アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
